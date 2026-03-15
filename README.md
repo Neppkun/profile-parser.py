@@ -10,7 +10,7 @@ This codebase was **ENTIRELY** rewritten into Python by [Anthropic](https://www.
 ## Installation
 
 ```shell
-$ pip install profile-parser
+$ pip install git+https://github.com/Neppkun/profile-parser.py
 ```
 
 ## Example usage
