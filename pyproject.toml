@@ -9,7 +9,7 @@ description = "Parse Warframe profile data into usable Python objects."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "WFCD" }]
+authors = [{ name = "WFCD" }, { name = "Neppkun" }, { name = "Claude Opus 4.6" }]
 
 [project.optional-dependencies]
 dev = ["pytest"]
